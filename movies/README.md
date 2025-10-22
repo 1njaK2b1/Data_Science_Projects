@@ -34,12 +34,3 @@ Data_Science_Porjects/
     |----EVALUATION.ipynb
     |----requirement.txt
     |----gitignore.txt
-
-```python
-
-```
-
-
-```python
-
-```

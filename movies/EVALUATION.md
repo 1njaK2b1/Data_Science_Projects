@@ -696,7 +696,3 @@ plt.show()
 The tuned Random Forest achieves a robust and balanced classification between Comedy and Thriller.
 Both genres are recognized with high precision and recall, indicating that the model generalizes well without overfitting.
 
-
-```python
-
-```
