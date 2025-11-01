@@ -116,8 +116,3 @@ proj1b/
 	•	Explore data structure abstraction via interfaces.
 	•	Understand how iterators, generics, and object methods improve usability.
 	•	Strengthen debugging and testing practices with edge cases and resizing logic.
-
-
-```python
-
-```
